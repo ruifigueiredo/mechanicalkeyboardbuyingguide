@@ -3,6 +3,7 @@
 Where to buy?
  
 Keyboards:
+
         INTERNATIONAL
         - http://mechanicalkeyboards.com/
         - http://www.wasdkeyboards.com/
@@ -49,6 +50,7 @@ Keyboards:
         - http://www.pccasegear.com/
  
 Keycaps:
+
         - http://geekhack.org/
         - http://www.pimpmykeyboard.com/
         - http://www.massdrop.com/
@@ -56,5 +58,6 @@ Keycaps:
         - http://imsto.cn/
  
 Accessories:
+
         - http://zealpc.net/
         - http://pexonpcs.co.uk/
