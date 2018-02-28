@@ -11,6 +11,7 @@ Keyboards:
         - http://www.massdrop.com/
         - http://www.mechkb.com/
         - http://pckeyboard.com/
+        - https://mekanisk.co/collections/keyboard-parts
  
         UNITED STATES
         - https://originative.co/
@@ -28,6 +29,11 @@ Keyboards:
         - https://1upkeyboards.com/
         - https://pimpmykeyboard.com/
         - https://www.winnja.com/custom-sleeved-cables/
+        - https://battlestation.io/
+        - https://ctrlalt.io/buys
+        - https://www.originativeco.com/collections/group-buy
+        - https://www.keyclack.com/
+        - http://www.pckeyboard.com/page/SFNT
 
 
  
@@ -44,6 +50,9 @@ Keyboards:
         - http://www.overclockers.co.uk/
         - http://pexonpcs.co.uk/
         - http://www.kustompcs.co.uk/
+        - https://mykeyboard.eu/catalogue/category/mechanical-keyboards_3/?page=7
+
+
  
         FRANCE
         - http://www.amazon.fr/
@@ -83,16 +92,6 @@ Accessories:
         - http://pexonpcs.co.uk/
         
 
-Diver:
-
-https://mykeyboard.eu/catalogue/category/mechanical-keyboards_3/?page=7 UK
-https://battlestation.io/ USA i think 
-https://deskthority.net/ forum
-https://geekhack.org/ forum 
-https://ctrlalt.io/buys USA
-https://mekanisk.co/collections/keyboard-parts czech
-https://www.originativeco.com/collections/group-buy USA
-https://pexonpcs.co.uk/ UK
-https://www.keyclack.com/ USA 
-http://www.keyboardco.com/ UK
-http://www.pckeyboard.com/page/SFNT USA
+Forum:
+        - https://deskthority.net/
+        - https://geekhack.org/
