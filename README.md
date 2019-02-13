@@ -12,6 +12,8 @@ Keyboards:
         - http://www.mechkb.com/
         - http://pckeyboard.com/
         - https://mekanisk.co/collections/keyboard-parts
+        - https://falba.tech/
+        - https://rama.works/
  
         UNITED STATES
         - https://originative.co/
@@ -34,6 +36,10 @@ Keyboards:
         - https://www.originativeco.com/collections/group-buy
         - https://www.keyclack.com/
         - http://www.pckeyboard.com/page/SFNT
+        - https://www.rgbkb.net/collections/all
+        - https://keeb.io/
+        - https://southpawdesign.net/
+        - https://spacecat.design/collections/pcbs-cases-kits
 
 
  
@@ -51,6 +57,7 @@ Keyboards:
         - http://pexonpcs.co.uk/
         - http://www.kustompcs.co.uk/
         - https://mykeyboard.eu/catalogue/category/mechanical-keyboards_3/?page=7
+        - http://www.ukkeycaps.co.uk/
 
 
  
