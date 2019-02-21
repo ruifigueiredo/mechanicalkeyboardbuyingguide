@@ -110,6 +110,6 @@ Info Keys:
         - http://xahlee.info/kbd/keyboard_keycap_printing.html
 
 
-Replacemente Keys:
+Replacement Keys:
 
         - https://www.replacementlaptopkeys.com/
