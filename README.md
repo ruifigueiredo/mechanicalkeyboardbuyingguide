@@ -1,4 +1,5 @@
 # Mechanical Keyboard Buying Guide
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3ZIV7)
 
 Where to buy?
  
