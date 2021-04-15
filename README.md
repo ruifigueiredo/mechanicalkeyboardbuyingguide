@@ -114,3 +114,8 @@ Info Keys:
 Replacement Keys:
 
         - https://www.replacementlaptopkeys.com/
+
+
+keebcu - a customizer for 3d printable keyboard cases:
+
+        - https://github.com/andimoto/keebcu
